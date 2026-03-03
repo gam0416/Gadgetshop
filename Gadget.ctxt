@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Gadget
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GadgetShop\ here.\r\n\r\n\ @author\ (Gadaf\ Malik-Abbas)\r\n\ Student\ ID\ -\ 25000098\r\n
+comment1.params=model\ price\ weight\ size
+comment1.target=Gadget(java.lang.String,\ double,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getModel()
+comment3.params=
+comment3.target=int\ getWeight()
+comment4.params=
+comment4.target=java.lang.String\ getSize()
+comment5.params=
+comment5.target=void\ display()
+numComments=6

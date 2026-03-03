@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MP3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MP3\ here.\r\n\r\n\ @author\ Gadaf\ Malik-Abbas\r\n\ Student\ ID\ -\ 25000098\r\n
+comment1.params=model\ price\ weight\ size\ availableMemory
+comment1.target=MP3(java.lang.String,\ double,\ int,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MP3\r\n\ it\ will\ accept\ 5\ parameters\ and\ passes\ common\ value\ to\ the\ Gadget\ constructor\r\n\ price\ -\ in\ \u00A3\ (Pounds)\r\n\ Weight\ -\ in\ g\ (Gram)\r\n\ Size\ -\ in\ mm\ (milemeter)\r\n
+comment2.params=
+comment2.target=int\ getAvailableMemory()
+comment3.params=downloadSize
+comment3.target=void\ downloadMusic(int)
+comment4.params=deleteSize
+comment4.target=void\ deleteMusic(int)
+comment5.params=
+comment5.target=void\ display()
+numComments=6
